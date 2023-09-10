@@ -36,35 +36,29 @@ Virtual Environment: It's recommended to use a virtual environment to manage dep
 Installation
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/3d-printing-catalog.git
 cd 3d-printing-catalog
 Create a virtual environment and activate it:
 
-bash
-Copy code
+
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 Install the project dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Perform database migrations:
 
-bash
-Copy code
+
 python manage.py migrate
 Create a superuser account:
 
-bash
-Copy code
+
 python manage.py createsuperuser
 Start the development server:
 
-bash
-Copy code
+
 python manage.py runserver
 Usage
 Access the web application by visiting http://localhost:8000/ in your web browser.
