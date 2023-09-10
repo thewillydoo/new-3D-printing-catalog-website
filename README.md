@@ -1,5 +1,18 @@
 3D Printing Catalog Web App
 
+Used Django to create a 3D printing catalog web application. 
+
+
+
+
+
+
+
+
+
+
+
+
 Table of Contents
 Introduction
 Features
