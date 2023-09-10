@@ -34,10 +34,7 @@ Python: You must have Python installed.
 Django: Install Django using pip install django.
 Virtual Environment: It's recommended to use a virtual environment to manage dependencies.
 Installation
-Clone the repository:
-
-
-git clone https://github.com/yourusername/3d-printing-catalog.git
+Clone the repository
 cd 3d-printing-catalog
 Create a virtual environment and activate it:
 
